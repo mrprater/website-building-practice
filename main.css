@@ -1,3 +1,6 @@
+ body {
+    background-color: #f4f442;
+    }
 .parallax { 
 
     /* Full height */
@@ -15,3 +18,5 @@
         background-attachment: scroll;
     }
 }
+    body {background-color: #f4f442;
+    }
