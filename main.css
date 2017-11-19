@@ -20,3 +20,9 @@
 }
     body {background-color: #f4f442;
     }
+    #hey {
+        padding-bottom: 10px !important;
+    }
+    #bye {
+        padding-top:20px !important;
+    }
